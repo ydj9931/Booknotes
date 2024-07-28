@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
-title = "A Hugo Site"
+title = "柳西庸的blog"
 copyright = "This is a customized copyright."
 theme = "diary"
 publishDir = "../ydj9931.github.io"
@@ -21,7 +21,7 @@ publishDir = "../ydj9931.github.io"
     tabWidth = 4
 
 [params]
-subtitle = "Themed by Diary."
+subtitle = "关注技术创新和开源"
 enableGitalk = false
 enableGiscus = true
 
@@ -32,7 +32,7 @@ clarity = "abcdefghzd"
 enableOpenGraph = true
 enableTwitterCards = true
 title = "My Blog" # will set 'og:site_name'
-description = "My HomePage Description"  # will set 'og:description'
+description = "遵循CC BY-NC"  # will set 'og:description'
 
 [params.gitalk]
   owner = "user"
@@ -67,15 +67,15 @@ theme="github-light"
 
 [[menu.main]]
 url = "/categories"
-name = "Categories"
+name = "主题"
 weight = 2
 [[menu.main]]
 url = "/tags"
-name = "Tags"
+name = "标签"
 weight = 3
 [[menu.main]]
 url = "/posts"
-name = "Archive"
+name = "文章"
 weight = 1
 [[menu.main]]
 url = "/index.xml"
