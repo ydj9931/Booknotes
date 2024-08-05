@@ -1,33 +1,32 @@
 # 知识管理的七个悖论  
 
 
-最近在参与组织内部知识分享和学习的事情，发现一篇有趣的短文，来自前IBM知识管理研究所欧洲分部所长、Cynefin框架之父戴维·约翰·斯诺登（David John Snowden）。
+最近在参与组织内部知识分享和学习，发现一篇有趣的短文，来自前IBM知识管理研究所欧洲分部所长、Cynefin框架之父戴维·约翰·斯诺登（David John Snowden）。
 
-Knowledge can only be volunteered it cannot be conscripted. You can’t make someone share their knowledge, because you can never measure if they have. You can measure information transfer or process compliance, but you can&rsqursquo;t determine if a senior partner has truly passed on all their experience or knowledge of a case.
+1. 知识（在组织或任何范围内的分享和管理）只能自愿，无法强迫让别人分享他们的知识，因为永远无法衡量某人是否真正拥有知识。
 
-1. 知识（在组织内的分享和管理）只能是自愿的，无法强迫。
+信息传递或流程合规性可以衡量，但你无法确保某位高级合伙人真正传达了对案例的所有经验或知识。
 
-不能让别人分享他们的知识，是因为你永远无法衡量他们是否真正拥有知识。您可以衡量信息传递或流程合规性，但您无法确定某位高级合伙人是否真正传递了他们对手头案例的所有经验或知识。
+2. 我们只知道需要知道的东西。 
 
-We only know what we know when we need to know it. Human knowledge is deeply contextual and requires stimulus for recall. Unlike computers, we do not have a list-all function. Small verbal or nonverbal clues can provide those ah-ha moments when a memory or series of memories are suddenly recalled, in context to enable us to act. When we sleep on things we are engaged in a complex organic form of knowledge recall and creation; in contrast, a computer would need to be rebooted.
+人类知识严重依赖情景背景，需要刺激来回忆。与计算机不同，人类没有“列出所有“这一指令，(能检索出所有信息)。
 
-2. 我们只知道我们需要知道的东西。 
+我们需要一小段语言或语言外的线索，找回一段记忆作为某个啊哈时刻，才能激发行动。
 
-人类的知识是深刻的背景，需要刺激来回忆。与计算机不同，我们没有列出所有功能。当一段记忆或一系列记忆突然被回忆起来时，小小的语言或非语言线索可以提供这些啊哈时刻，使我们能够采取行动。当我们在事物上睡觉时，我们参与了一种复杂的知识回忆和创造的有机形式;相比之下，计算机需要重新启动。
+当我们思索某件事物时，在进行一种复杂有机的知识回忆和创造形式；而计算机只需要重新启动。
 
-
- In the context of real need, few people will withhold their knowledge. A genuine request for help is not often refused unless there is literally no time or a previous history of distrust. On the other hand, ask people to codify all that they know in advance of a contextual enquiry and it will be refused (in practice it’s impossible 
-anyway). Linking and connecting people is more important than storing their artefacts.
 
 3. 在真正需要帮助的情况下，很少有人会保留他们的知识。
 
-除非确实没有时间或之前存在不信任的历史，否则很少会拒绝真诚的求助请求。另一方面，要求人们在进行具体查询之前预先编码他们所知的一切，这种请求通常会被拒绝（实际上这是不可能的）。连接和联结人们比存储他们的产物更重要。
+除非真没有时间或存在不信任的历史，否则人们很少会拒绝真诚的求助请求。
 
-Everything is fragmented. We evolved to handle unstructured fragmented fine granularity information objects, not highly structured documents. People will spend hours on the internet, or in casual conversation without any incentive or pressure. However, creating and using structured documents requires considerably more effort and time. Our brains evolved to handle fragmented patterns not information.
+另一方面，要求人们详细列出所有上下文，也不太可能，连接和沟通比存储他们的知识更加重要。
 
 4. 一切都是碎片化的。
 
-我们进化到能处理非结构化的、碎片化的、精细化的信息对象，而不是高度结构化的文档。人们会在互联网上花费数小时，或者在随意的对话中，没有任何激励或压力。然而，创建和使用结构化文档需要更多的努力和时间。我们的大脑进化成处理碎片化的模式，而不是信息。
+我们进化到能处理非结构化的、碎片化的、精细化的信息对象，而不是高度结构化的文档。
+人们会在互联网上花费数小时，或者在随意的对话中，没有任何激励或压力。
+然而，创建和使用结构化文档需要更多的努力和时间。我们的大脑进化成处理碎片化的模式，而不是信息。
 
 
 Tolerated failure imprints learning better than success. When my young son burnt his finger on a match he learnt more about the dangers of fire than any amount of parental instruction could provide. All human cultures have developed forms that allow stories of failure to spread without attribution of blame. Avoidance of failure has a greater evolutionary advantage than the imitation of success. It follows that attempting to impose best practice systems is flying in the face of over a hundred thousand years of evolution that says it is a bad thing.
